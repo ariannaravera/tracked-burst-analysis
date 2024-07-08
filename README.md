@@ -50,6 +50,7 @@ Running the script will produce:
 - `filtered_tracking_output.csv`: Filtered dataframe with relevant burst spots.
 - `bursts_info.csv`: Duration and timeframes in which the burst spot is active and is not.
 - `burst_spots_duration.png`: Graph showing the duration of burst spots in cells.
+![burst_spots_duration](https://github.com/ariannaravera/tracked-burst-analysis/assets/48065927/780c6e8d-3048-4c0e-9228-c373f323f9ce)
 
 ## Script Details
 
