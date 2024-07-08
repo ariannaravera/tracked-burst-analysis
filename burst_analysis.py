@@ -123,7 +123,7 @@ def main(input_data_path, output_path):
     ax.set_ylim([0, max(np.unique(filtered_df['TRACK_ID']))+1])
     plt.grid(alpha=0.6)
     plt.tight_layout()       
-    plt.savefig(os.path.join(output_path, 'track.png'))
+    plt.savefig(os.path.join(output_path, 'burst_spots_duration.png'))
 
 
 if __name__=='__main__':
