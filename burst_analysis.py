@@ -1,3 +1,8 @@
+#!/bin/env python3
+# -*- coding: utf-8 -*-
+
+# Copyright (C) 2024
+
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
